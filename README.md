@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate frontend and backend developer from Germany</h3>
 
-- 🌱 I’m currently learning **TensorFlow, SciKit-learn**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **palazberkay26@gmail.com**
 
