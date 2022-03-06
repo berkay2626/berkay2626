@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **palazberkay26@gmail.com**
 
-- 🌐 (berkay2626.github.io/portfolio/)
+- 🌐 [Portfolio](berkay2626.github.io/portfolio/)
 
 - ⚡ Fun fact **The bravest thing I've ever done was playing guitar to a live audience of over one thousand people.😂**
 
